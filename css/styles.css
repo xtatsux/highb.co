@@ -43,6 +43,11 @@ main {
 	text-align: right;
 }
 
+.icon {
+	width: 8vw;
+	vertical-align: bottom;
+}
+
 main > .intro {
 	font-family: 'Caveat', cursive;
 	font-size: 3.75em;
