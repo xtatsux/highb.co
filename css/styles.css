@@ -67,16 +67,26 @@ main > .tagline {
 .icons-social a {
   text-decoration: none;
 }
-
+/*
 .devto {
 	margin-bottom: -0.20rem;
 }
 
-.devto svg {
-	margin-bottom: -0.20rem;
-	margin-left: 0.675rem;;
-	width: 2.65rem;
-	height: 2.65rem;
+
+*/
+
+.icons-social svg {
+	width: 3rem;
+	height: 3rem;
+}
+
+.fab-zenn svg {
+	margin-left: -1%;
+	margin-right: -2%;
+}
+
+.fab-note{
+	margin: -0.2%;
 }
   
   .footer {
